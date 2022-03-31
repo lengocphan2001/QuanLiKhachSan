@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe.config
+C:\Users\HP\source\repos\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.exe
+C:\Users\HP\source\repos\QuanLiKhachSan\QuanLiKhachSan\bin\Debug\QuanLiKhachSan.pdb
+C:\Users\HP\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.mainForm.resources
+C:\Users\HP\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.Properties.Resources.resources
+C:\Users\HP\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.exe
+C:\Users\HP\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.pdb
+C:\Users\HP\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.formKhachHang.resources
+C:\Users\HP\source\repos\QuanLiKhachSan\QuanLiKhachSan\obj\Debug\QuanLiKhachSan.formPhong.resources
